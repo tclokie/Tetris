@@ -1,5 +1,7 @@
 Trevor's Tetris.
 
+To run, execute "Tetris" using java from the command line.
+
 Instructions:
 	Left - move left
 	Right - move right
@@ -11,3 +13,4 @@ Instructions:
 	G - toggle visibility of ghost piece
 	R - restart (after Game Over or during Pause)
 	Esc. - exit program
+
